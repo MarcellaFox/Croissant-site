@@ -23,10 +23,6 @@ a:hover {
   color: var(--secondary-color);
 }
 
-/* .links {
-  padding: 20px;
-} */
-
 .background {
   background-image: url("/images/paris.jpeg");
   background-position: center;
